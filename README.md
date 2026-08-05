@@ -158,6 +158,7 @@ A beginner-friendly CLI task manager — add, edit, filter and persist tasks to 
 ## 🎓 Education
 
 **Lovely Professional University** — B.Tech, Computer Science & Engineering · CGPA 7.83 · 2022 – 2026
+
 **Dashmesh Senior Secondary School** — Senior Secondary, 94% · 2020 – 2021
 
 ---
